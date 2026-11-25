@@ -1,0 +1,9 @@
+domain:gspe1-ssl.ls.apple.com
+domain:news-edge.apple.com
+domain:news-events.apple.com
+domain:news-client.apple.com
+domain:news-client-search.apple.com
+domain:news-assets.apple.com
+domain:apple.news
+domain:apple.comscoreresearch.com
+domain:gateway.icloud.com
